@@ -49,7 +49,7 @@ a {
 
 .profile {
   background: #fff;
-  width: 40%;
+  width: 45%;
   float: left;
   color: #9099a0;
 }
@@ -116,13 +116,12 @@ a {
 .profile .picture-resume img {
   border-radius: 50%;
   width: 180px;
-  height: 200px;
-  /* padding: 10px; */
+  height: 180px;
   justify-content: center;
 }
 @media (max-width: 1500px) {
   .profile .picture-resume img {
-    width: 80px;
+    width: 180px;
   }
 }
 @media (max-width: 1200px) {
@@ -207,7 +206,7 @@ a {
 
 .experience {
   background: #3d3e42;
-  width: 60%;
+  width: 55%;
   float: left;
   position: relative;
   color: #9099a0;
